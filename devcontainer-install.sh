@@ -1,0 +1,2 @@
+uname -a
+npm install
