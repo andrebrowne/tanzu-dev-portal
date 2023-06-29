@@ -355,6 +355,7 @@ CF_API_ENDPOINT_URL
 (CF|cf)(-for-k8s)?
 cfapps
 [Cc]group(s)?
+Chacko
 Chainguard
 Chander
 changeAlertLevel
@@ -477,6 +478,7 @@ core-dns
 CoreCLR
 CoreDNS
 CoreOS
+Corneil
 coroutine
 Corry
 CORS
@@ -703,6 +705,7 @@ Dropwizard
 Drotbohm
 DSL(s)?
 DSN
+du
 Dubois
 duplicative
 durations
@@ -729,6 +732,7 @@ EFS
 eg
 eg.
 egoless
+EJBs?
 Ekaterina
 EKS
 Elahn
@@ -1073,6 +1077,7 @@ hostpath
 hotspot
 HPA(s)?
 (HPA|hpa)-(S|s)ender
+href
 HSM(s)?
 HSQLDB
 Http
@@ -1209,6 +1214,7 @@ Jasso
 JavaBean
 JavaBeanAccessorMethodAuthorizer
 JavaBeans
+JavaDoc
 JavaEE
 JavaOne
 [Jj]avascript
@@ -1259,6 +1265,8 @@ Jonatan
 jonatan_ivanov
 JOP
 Joram
+Jozi
+JP?QL
 JPA
 JProfiler
 JRE
@@ -1770,6 +1778,7 @@ optionality
 OQL
 orchestrator(s)?
 OrderService
+Oredev
 org(s)?
 ORM(-based)?
 ORM(s)?
@@ -1799,6 +1808,7 @@ Pacak
 Packer
 Packt('s)?
 [Pp]addleboarding
+pageable
 [Pp]agefile
 PagerDuty
 Pairmate
@@ -1873,6 +1883,7 @@ PKI
 PKS
 plaintext
 PlatformAP
+Plessis
 pluggability
 Pluggable
 pluggable
@@ -2042,6 +2053,7 @@ RedMonk('s)?
 Reenvisioning
 Reetro
 refactorings?
+Regas
 RegExMethodAuthorizer
 RegionEntries
 RegionEntry
@@ -2182,6 +2194,7 @@ Sardana
 Sarella
 SAT(s)?
 Sathe
+Saus
 Savla
 SBDG
 scaffolded
@@ -2202,6 +2215,7 @@ screencaster
 SCS
 SDD
 SDK(s)?
+SDR
 SDS
 seaborn
 Seagate
@@ -2291,12 +2305,14 @@ Snapchat
 SNAPe
 SNI
 Snyk
+Soby
 SolidFire
 solutioning
 Soluto('s)?
 SomeRegion
 SonicDMG
 [Ss]onobuoy
+sortable
 Soumik
 SourceTester
 Sox
@@ -2535,6 +2551,7 @@ UNC
 uncheck
 Uncomment
 uncomment
+underrecognized
 undersample
 underserved
 underutilization
@@ -2760,6 +2777,7 @@ Zalando
 ZDNet
 Zenika
 Zhen
+Zhurakousky
 Zino
 [Zz]ipkin
 ZipkinSenderProperties
